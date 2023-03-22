@@ -4,7 +4,7 @@
 Our team will analyze the correlation between income growth, changes in consumer demand, and their impact on nutritional intake. i.e. more processed foods in the diet, leading to lower nutritional intakes and increasing rates of obesity.
 
 ## Goals
-- Estimate demand systems for Tanzania using available data
+- Estimate demand systems for Tanzania using available data (2008-2015)
 - Draw conslusion between change in demand and demand elastcities and growth in consumption of processed foods 
 
 ## Meet Team E (Elephants)
