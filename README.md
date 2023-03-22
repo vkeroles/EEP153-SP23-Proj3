@@ -5,7 +5,7 @@ Our team will analyze the correlation between income growth, changes in consumer
 
 ## Goals
 - Estimate demand systems for Tanzania using available data
-- Draw conslusiom between chnage in demand and demand elastcities and growth in consumption of processed foods 
+- Draw conslusion between change in demand and demand elastcities and growth in consumption of processed foods 
 
 ## Meet Team E (Elephants)
 - Jennifer Hernandez, email: jennifer12hernandez@berkeley.edu | Jenni2024
