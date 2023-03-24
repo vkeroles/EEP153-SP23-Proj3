@@ -1,7 +1,13 @@
-# Project 3 Food Demand 
-This project is about understanding people's choices about what food to eat (and how much). Sometimes these choices may lead to inexpensive, nutritious diets, but certainly not always! In examining demand, we focus on the relationship between diet, budget, and prices. The overall goal of the project is to be able to give a clear characterization of this relationship for some particular real-world population.
+# Project 3 Food Demand - The Impact of Income on Food Demand in Tanzania
 
-## Meet Team E
+## Topic
+Our team will analyze the correlation between income growth, changes in consumer demand, and their impact on nutritional intake. i.e. more processed foods in the diet, leading to lower nutritional intakes and increasing rates of obesity.
+
+## Goals
+- Estimate demand systems for Tanzania using available data (2008-2015)
+- Draw conslusion between change in demand and demand elastcities and growth in consumption of processed foods 
+
+## Meet Team E (Elephants)
 - Jennifer Hernandez, email: jennifer12hernandez@berkeley.edu | Jenni2024
 - Kelly Huang, email: kehuang11@berkeley.edu | kehuang11 
 - Victor Keroles, email: vkeroles@berkeley.edu | vkeroles 
