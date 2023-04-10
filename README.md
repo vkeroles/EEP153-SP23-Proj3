@@ -11,9 +11,9 @@ In this project we are examining the connection between income growth, consumer 
 ## Meet Team E (Elephants)
 - Jennifer Hernandez, email: jennifer12hernandez@berkeley.edu | Jenni2024
 - Kelly Huang, email: kehuang11@berkeley.edu | kehuang11 
-- Victor Keroles, email: vkeroles@berkeley.edu | vkeroles 
+- Victor Keroles (Archivist), email: vkeroles@berkeley.edu | vkeroles 
 - Kaylee Vu, email: kayleevu@berkeley.edu | kayleevu
-- Hayden Willy, email: hayden.willy@berkeley.edu | haydenwilly
+- Hayden Willy (Team Manager), email: hayden.willy@berkeley.edu | haydenwilly
 - Austin Yee, email: austinyee@berkeley.edu | austinyee
 
 ### Collaboration
